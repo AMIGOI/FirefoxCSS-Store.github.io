@@ -845,5 +845,12 @@
     "description": "Keeps the original new tab page layout while making it look as glassy as possible.",
     "image": "assets/img/themes/glassyfox.webp",
     "tags": [ "blur", "AnhNguyenlost13" ]
+  },
+  {
+    "title": "AMIGO TEMA",
+    "link": "nose",
+    "description": "Un navegador minimalista por ahora",
+    "image": "https://imgur.com/cNRMOJC",
+    "tags": [ "your AMIGO/7U7", "theme type: dark", "theme type: light" ]
   }
 ]
